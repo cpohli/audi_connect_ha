@@ -7,10 +7,11 @@ Audi Connect Integration for Home Assistant
 
 [![hacs][hacsbadge]](hacs)
 
-Maintainers Wanted
+Important!
 ------------
-Due to time limitations this project is not actively maintained anymore. It will continue to work as long as Audi does not change the API again. 
-However, I'm open to someone else taking the lead. If you would like to become a maintainer, please contact me.
+This is a fork of a no longer maintained (as of March 24) integration for Audi connect into Home Assistant. I use this especially for my Audi A6 Hybrid (2024 model) - use on your own risk - and for trying out some things :-)
+
+Below follows the original description.
 
 Description
 ------------
